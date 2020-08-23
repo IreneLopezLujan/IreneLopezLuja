@@ -2,7 +2,7 @@
 
 ## Hi there and welcome! 👋
 
-I´m a _systems and computing engineer_ specialized in **web development**, I´m passionate about tech💻, personal finance💰, sustainability💚 and sports🏀. 
+I´m a _systems and computing engineer_ specialized in **xxxxx**, I´m passionate about tech💻, personal finance💰, sustainability💚 and sports🏀. 
 
 - 💼 I’m currently looking for a **new job opportunity**
 - 🌱 I’m learning about **xxxxx**
